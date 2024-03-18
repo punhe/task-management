@@ -1,0 +1,23 @@
+.requirement-list li {
+    font-size: 0.7rem;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.requirement-list li i {
+    width: 10px;
+    color: gray;
+    font-size: 1rem;
+}
+.requirement-list li.valid i {
+    font-size: 0.7rem;
+    color: green;
+}
+.requirement-list li span {
+    margin-left: 12px;
+    color: gray;
+}
+.requirement-list li.valid span {
+    color: green;
+}

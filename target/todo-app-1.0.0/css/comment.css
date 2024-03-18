@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa;
+}
+.card-container {
+    margin-top: 50px;
+}
+.card {
+    border: 1px solid #d6d8db;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.fieldset-container {
+    margin-bottom: 20px;
+}
